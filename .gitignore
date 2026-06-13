@@ -1,0 +1,27 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+.rag_index_cache/
+
+# Environment & secrets
+.env
+.env.*
+
+# SQLite temp files
+*.db-shm
+*.db-wal
+
+# Logs
+logs/
+
+# Node / Next.js
+medcompass-app/node_modules/
+medcompass-app/.next/
+medcompass-app/out/
+medcompass-app/.vercel
+
+# OS
+.DS_Store
+Thumbs.db

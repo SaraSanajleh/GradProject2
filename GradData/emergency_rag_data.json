@@ -1,0 +1,2531 @@
+[
+  {
+    "symptoms": ["احتقان", "إصابة رأس", "سيلان"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["احتقان", "حرارة عالية جدا"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["احتقان", "إفرازات خضراء", "ألم وجه"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["احتقان", "نزيف أنف"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["احتقان", "صداع شديد", "قيء"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["طفل", "احتقان", "صعوبة تنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["سيلان مستمر", "بعد ضربة على الرأس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["احمرار العين", "فقدان النظر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["احمرار العين", "تغير النظر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["احمرار العين", "صداع شديد", "ألم عين"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["احمرار العين", "حرارة", "حساسية ضوء"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["احمرار العين", "غثيان", "قيء"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["احمرار العين", "مادة كيميائية", "جسم غريب"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["احمرار العين", "رؤية هالات"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["احمرار العين", "تورم شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["احمرار العين", "عدم القدرة على فتح العين"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع البوتاسيوم", "ضيق تنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع البوتاسيوم", "ألم صدر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع البوتاسيوم", "عدم انتظام ضربات القلب"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع البوتاسيوم", "ضعف شديد في العضلات"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع البوتاسيوم", "تنميل", "وخز بالأطراف"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع البوتاسيوم", "غثيان", "قيء"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع الهيموغلوبين", "مشاكل في النظر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع الهيموغلوبين", "دوخة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع الهيموغلوبين", "صداع"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع الهيموغلوبين", "صعوبة الكلام"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع كريات الدم الحمراء", "ضيق تنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع كريات الدم الحمراء", "مشاكل في النظر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع كريات الدم الحمراء", "دوخة شديدة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع كريات الدم الحمراء", "صداع شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع كريات الدم الحمراء", "تعب شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع كريات الدم البيضاء", "حرارة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع كريات الدم البيضاء", "ضيق تنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع كريات الدم البيضاء", "تعب شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع كريات الدم البيضاء", "ألم شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع كريات الدم البيضاء", "قشعريرة", "التهاب شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع حمض اليوريك", "ألم مفاجئ وشديد في المفاصل"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع حمض اليوريك", "تورم", "احمرار في المفصل"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع حمض اليوريك", "حرارة", "مفصل ملتهب"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع حمض اليوريك", "ألم شديد في الخاصرة", "ألم في البطن"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع حمض اليوريك", "دم في البول"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع حمض اليوريك", "ألم أثناء التبول"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع حمض اليوريك", "صعوبة التبول"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع حمض اليوريك", "غثيان", "قيء", "ألم شديد"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["ارتفاع إنزيمات الكبد", "ألم شديد في البطن", "أعلى اليمين"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع إنزيمات الكبد", "اصفرار الجلد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع إنزيمات الكبد", "اصفرار العين"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع إنزيمات الكبد", "غثيان شديد", "قيء"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع إنزيمات الكبد", "تعب شديد جدا"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع إنزيمات الكبد", "بول داكن"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع إنزيمات الكبد", "براز فاتح"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع إنزيمات الكبد", "حكة شديدة"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["الإسهال", "جفاف", "عطش شديد", "قلة تبول", "دوخة", "ضعف"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الإسهال", "ألم شديد في البطن"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الإسهال", "ألم في المستقيم"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الإسهال", "دم في البراز"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الإسهال", "براز أسود"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الإسهال", "حرارة عالية"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الإسهال", "دوخة", "ضعف شديد"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["الإفرازات المهبلية", "رائحة قوية"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الإفرازات المهبلية", "لون غير طبيعي"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الإفرازات المهبلية", "حكة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الإفرازات المهبلية", "حرقان"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الإفرازات المهبلية", "ألم"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الإفرازات المهبلية", "نزيف خارج الدورة"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["إفرازات من الحلمة", "خروج تلقائي"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["إفرازات من الحلمة", "دم"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["إفرازات من الحلمة", "لون شفاف"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["إفرازات من الحلمة", "جهة واحدة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["إفرازات من الحلمة", "مستمرة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["إفرازات من الحلمة", "كتلة في الثدي"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["التقيؤ", "دم", "دوخة"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["ألم في العين", "تغير مفاجئ في النظر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم في العين", "صداع شديد", "حرارة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم في العين", "حساسية شديدة للضوء"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم في العين", "غثيان", "قيء"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم في العين", "مادة كيميائية", "جسم غريب"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم في العين", "رؤية هالات"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم في العين", "تورم"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم في العين", "عدم القدرة على فتح العين"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم في العين", "عدم القدرة على تحريك العين"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم في العين", "دم", "قيح"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["ألم في الشرج", "نزيف شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم في الشرج", "نزيف مستمر", "دوخة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم في الشرج", "إغماء"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم في الشرج", "ألم شديد متزايد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم في الشرج", "انتشار الألم"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم في الشرج", "حرارة", "قشعريرة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم في الشرج", "إفرازات"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["ألم العضلات", "صعوبة تنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم العضلات", "دوخة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم العضلات", "ضعف شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم العضلات", "حرارة عالية", "تيبس الرقبة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم العضلات", "إصابة شديدة", "نزيف"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["التقيؤ", "دم", "صعوبة تنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["التقيؤ", "دم", "إغماء"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["التقيؤ", "دم", "تشوش"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["التقيؤ", "دم", "جلد بارد شاحب"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["التقيؤ", "دم", "قلة تبول"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["ألم الأربية", "ألم الصدر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الأربية", "ألم البطن"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الأربية", "ألم الظهر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الأربية", "ألم شديد في الخصية"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الأربية", "تورم الخصية"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الأربية", "غثيان", "قيء"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الأربية", "حرارة", "قشعريرة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الأربية", "دم في البول"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["ألم البطن", "إصابة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم البطن", "حادث"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم البطن", "ألم الصدر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم البطن", "ألم الرقبة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم البطن", "ألم الكتف"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم البطن", "ضيق تنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم البطن", "دوخة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم البطن", "تقيؤ مع دم"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم البطن", "دم في البراز"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم البطن", "براز أسود"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم البطن", "دم في البول"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم البطن", "انتفاخ شديد", "ألم عند اللمس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم البطن", "حرارة عالية"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم البطن", "قيء مستمر"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["ألم الحوض", "ألم مفاجئ شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الحوض", "بداية مفاجئة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الحوض", "نزيف مهبلي شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الحوض", "حرارة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الحوض", "غثيان", "قيء"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الحوض", "إغماء"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الحوض", "دوخة شديدة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الحوض", "عدم القدرة على التبول"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الحوض", "دم في البول"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الحوض", "دم في السائل المنوي"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["ألم في الخصية", "ألم مفاجئ شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم في الخصية", "غثيان", "قيء"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم في الخصية", "حرارة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم في الخصية", "قشعريرة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم في الخصية", "دم في البول"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["ألم الذراع", "ألم في الصدر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الذراع", "ضغط في الصدر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الذراع", "ألم مفاجئ شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الذراع", "تشوه في الذراع"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الذراع", "شكل غير طبيعي"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الذراع", "عظم ظاهر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الذراع", "نزيف"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["ألم الرقبة", "إصابة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الرقبة", "حادث"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الرقبة", "ضعف في الذراع"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الرقبة", "ضعف في الساق"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الرقبة", "صعوبة في المشي"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الرقبة", "حرارة عالية"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["ألم الركبة", "تشوه في شكل الركبة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الركبة", "صوت فرقعة وقت الإصابة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الركبة", "عدم القدرة على الوقوف"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الركبة", "عدم القدرة على تحميل الوزن"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الركبة", "ألم شديد جدا"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الركبة", "تورم مفاجئ سريع"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["إصابة في الساق", "جرح عميق"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["إصابة في الساق", "ظهور العظم"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["ألم الظهر", "حادث"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الظهر", "سقوط"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الظهر", "إصابة قوية"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الظهر", "فقدان السيطرة على البول"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الظهر", "فقدان السيطرة على البراز"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الظهر", "حرارة"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["ألم الساق", "عدم القدرة على المشي"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الساق", "عدم القدرة على تحميل الوزن"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الساق", "تورم", "احمرار", "حرارة في أسفل الساق"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الساق", "صوت فرقعة وقت الإصابة"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["ألم القدم", "ألم شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم القدم", "تورم شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم القدم", "إصابة قوية"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم القدم", "جرح مفتوح"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم القدم", "خروج قيح"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم القدم", "حرارة", "احمرار", "سخونة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم القدم", "عدم القدرة على المشي"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم القدم", "عدم القدرة على الوقوف"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["ألم الكاحل", "ألم شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الكاحل", "تورم شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الكاحل", "إصابة قوية"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الكاحل", "تشوه في شكل الكاحل"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الكاحل", "جرح مفتوح"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الكاحل", "حرارة", "احمرار", "سخونة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الكاحل", "عدم القدرة على الوقوف"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الكاحل", "عدم القدرة على المشي"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["ألم الكعب", "ألم شديد بعد إصابة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الكعب", "ألم شديد", "تورم"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الكعب", "عدم القدرة على المشي"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الكعب", "عدم القدرة على الوقوف"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الكعب", "حرارة", "تنميل", "وخز"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["ألم الكلى", "ألم مفاجئ شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الكلى", "دم في البول"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الكلى", "حرارة", "تعب عام"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الكلى", "ألم عند التبول"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الكلى", "غثيان", "قيء"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["ألم الكوع", "تشوه في شكل الكوع"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الكوع", "ظهور العظم"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الكوع", "جرح مفتوح"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الكوع", "إصابة مفاجئة", "صوت فرقعة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الكوع", "ألم شديد", "تورم", "كدمات"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الكوع", "عدم القدرة على تحريك الذراع"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["ألم المفاصل", "تشوه في شكل المفصل"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم المفاصل", "عدم القدرة على استخدام المفصل"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم المفاصل", "ألم شديد جدا"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم المفاصل", "تورم مفاجئ"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["ألم الورك", "تشوه في المفصل"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الورك", "قصر في الساق"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الورك", "عدم القدرة على تحريك الساق"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الورك", "عدم القدرة على الوقوف"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الورك", "عدم القدرة على تحميل الوزن"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الورك", "ألم شديد جدا"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الورك", "تورم مفاجئ"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الورك", "حرارة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم الورك", "قشعريرة"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["انخفاض البوتاسيوم", "اضطراب ضربات القلب"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["انخفاض البوتاسيوم", "ضعف شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["انخفاض البوتاسيوم", "شلل عضلي"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["انخفاض البوتاسيوم", "تعب شديد", "تشنجات عضلية"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["انخفاض الهيموغلوبين", "ضيق تنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["انخفاض الهيموغلوبين", "عدم انتظام ضربات القلب"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["انخفاض الهيموغلوبين", "تعب شديد جدا"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["انخفاض كريات الدم البيضاء", "حرارة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["انخفاض كريات الدم البيضاء", "تعب", "التهابات متكررة"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["كتلة في الثدي", "صلبة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["كتلة في الثدي", "لا تختفي"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["كتلة في الثدي", "تكبر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["كتلة في الثدي", "إفرازات من الحلمة", "دم"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["كتلة في الثدي", "تغير شكل الجلد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["كتلة في الثدي", "انقلاب الحلمة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["كتلة في الثدي", "كتلة في الإبط"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["مريض سكري", "ألم القدم", "جرح لا يلتئم"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["ارتفاع بروتين الدم", "تعب شديد جدا"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع بروتين الدم", "ألم بالعظام"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع بروتين الدم", "تورم"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع بروتين الدم", "ضيق تنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع بروتين الدم", "ضعف عام"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ارتفاع بروتين الدم", "نزيف"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["جفاف المهبل", "نزيف غير مبرر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["جفاف المهبل", "إفرازات غير طبيعية"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["حرقة القدمين", "بداية مفاجئة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["حرقة القدمين", "جرح", "علامات التهاب"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["جلطات دموية", "ألم الصدر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["جلطات دموية", "ضيق تنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["جلطات دموية", "سعال مع دم"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["جلطات دموية", "تسارع ضربات القلب"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["جلطات دموية", "دوخة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["جلطات دموية", "إغماء"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["جلطات دموية", "ضعف مفاجئ"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["جلطات دموية", "صعوبة الكلام"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["جلطات دموية", "ألم يمتد للذراع"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["جلطات دموية", "ألم يمتد للفك"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["الخدر", "بداية مفاجئة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الخدر", "بعد إصابة رأس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الخدر", "يشمل الذراع بالكامل"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الخدر", "يشمل الساق بالكامل"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الخدر", "ضعف", "شلل"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الخدر", "تشوش"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الخدر", "صعوبة الكلام"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الخدر", "دوخة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الخدر", "صداع شديد مفاجئ"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["خدر اليدين", "بداية مفاجئة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["خدر اليدين", "ضعف", "شلل"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["خدر اليدين", "تشوش"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["خدر اليدين", "صعوبة الكلام"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["خدر اليدين", "دوخة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["خدر اليدين", "صداع مفاجئ"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["الدوخة", "صداع شديد مفاجئ"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الدوخة", "ألم الصدر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الدوخة", "ضيق تنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الدوخة", "ضعف", "خدر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الدوخة", "صعوبة المشي"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الدوخة", "فقدان التوازن"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الدوخة", "إغماء"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الدوخة", "تشنجات"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الدوخة", "تشوش"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الدوخة", "صعوبة الكلام"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الدوخة", "قيء مستمر"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["رائحة البول", "دم في البول"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["دموع العين", "ألم شديد في العين"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["دموع العين", "فقدان النظر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["دموع العين", "احمرار شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["دموع العين", "حساسية للضوء"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["السعال", "دم في البلغم"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["السعال", "حرارة عالية"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["السعال", "ألم الصدر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["السعال", "بلغم كثيف"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["السعال مع دم", "كمية كبيرة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["السعال مع دم", "نزيف مستمر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["السعال مع دم", "ضيق تنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["السعال مع دم", "ألم الصدر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["السعال مع دم", "تسارع ضربات القلب"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["سيلان الأنف", "بعد إصابة الرأس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["سيلان الأنف", "حرارة عالية مستمرة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["سيلان الأنف", "ألم شديد في الوجه"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["سيلان الأنف", "ألم شديد في الجيوب"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["طفح الثدي", "احمرار شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["طفح الثدي", "تورم"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["طفح الثدي", "حرارة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["طفح الثدي", "ألم شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["طفح الثدي", "إفرازات من الحلمة"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["غازات", "ألم شديد جدا في البطن"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["غازات", "انتفاخ شديد مستمر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["غازات", "قيء شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["غازات", "غثيان شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["غازات", "عدم خروج براز"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["غازات", "عدم خروج غازات"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["الغثيان", "ألم شديد في البطن"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الغثيان", "صداع شديد مفاجئ"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الغثيان", "تيبس الرقبة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الغثيان", "حرارة عالية"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الغثيان", "قيء مستمر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الغثيان", "قيء شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الغثيان", "دم في القيء"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الغثيان", "جفاف شديد", "قلة تبول"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الغثيان", "جفاف شديد", "دوخة"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["التبرز المتكرر", "إسهال مستمر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["التبرز المتكرر", "دم في البراز"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["التبرز المتكرر", "حرارة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["التبرز المتكرر", "ألم شديد في البطن"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["التبول المتكرر", "ألم أثناء التبول"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["التبول المتكرر", "حرقة أثناء التبول"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["التبول المتكرر", "دم في البول"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["التبول المتكرر", "حرارة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["التبول المتكرر", "ألم في الخاصرة"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["زيادة الخلايا اللمفاوية", "حرارة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["زيادة الخلايا اللمفاوية", "تعرق ليلي"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["زيادة الخلايا اللمفاوية", "فقدان وزن غير مبرر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["زيادة الخلايا اللمفاوية", "تضخم الغدد اللمفاوية"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["اللسان الأبيض", "ألم في اللسان"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["اللسان الأبيض", "بقع لا تختفي لأسابيع"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["اللسان الأبيض", "صعوبة بلع"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["اللسان الأبيض", "كتل داخل الفم"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["اللسان الأبيض", "تغيرات داخل الفم"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["اللسان الأصفر", "اصفرار العين"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["اللسان الأصفر", "اصفرار الجلد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["اللسان الأصفر", "استمرار اللون لفترة طويلة"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["النزيف أثناء الحمل", "نزيف غزير"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["النزيف أثناء الحمل", "نزيف مستمر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["النزيف أثناء الحمل", "ألم في البطن"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["النزيف أثناء الحمل", "تقلصات"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["النزيف أثناء الحمل", "حرارة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["النزيف أثناء الحمل", "قشعريرة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["النزيف أثناء الحمل", "خروج أنسجة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["النزيف أثناء الحمل", "يستمر أكثر من ساعات"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["النزيف المهبلي", "أثناء الحمل"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["النزيف المهبلي", "بعد سن اليأس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["النزيف المهبلي", "نزيف شديد", "يملي فوطة كل ساعة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["النزيف المهبلي", "غير طبيعي"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["النزيف المهبلي", "خارج وقت الدورة"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["نزيف الأنف", "نزيف مستمر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["نزيف الأنف", "نزيف متكرر بشكل كبير"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["نزيف الأنف", "صعوبة في التنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["نزيف الأنف", "بعد إصابة قوية في الرأس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["نزيف الأنف", "كمية دم كبيرة"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["النزيف الشرجي", "نزيف غزير"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["النزيف الشرجي", "نزيف مستمر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["النزيف الشرجي", "ألم شديد في البطن"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["النزيف الشرجي", "دوخة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["النزيف الشرجي", "إغماء"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["النزيف الشرجي", "تشوش"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["النزيف الشرجي", "ضعف شديد"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["رفة العين", "تستمر لأسابيع"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["رفة العين", "إغلاق كامل للعين"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["رفة العين", "تشنج شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["رفة العين", "تشمل أجزاء أخرى من الوجه"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["نقص الأكسجين", "ضيق تنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["نقص الأكسجين", "تسارع ضربات القلب"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["نقص الأكسجين", "تشوش"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["نقص الأكسجين", "فقدان وعي"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["نقص الأكسجين", "ازرقاق الشفاه"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["نقص الأكسجين", "ازرقاق الجلد"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["فقدان الوزن", "فقدان سريع وكبير"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["فقدان الوزن", "تعب شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["فقدان الوزن", "حرارة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["فقدان الوزن", "تعرق ليلي"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["فقدان الوزن", "فقدان شهية"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["نمشات", "انتشار سريع في الجسم"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["البراز الأخضر", "حرارة عالية", "ألم بطن شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["البراز الأخضر", "دم في البراز"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["البراز الأخضر", "قيء مستمر", "ألم شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["البراز الأخضر", "إسهال مستمر", "ضعف شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["البراز الأخضر", "إسهال مستمر", "إغماء"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["البراز الأخضر", "فقدان وزن سريع", "تعب شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["البراز الأخضر", "إسهال شديد", "جفاف"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["بروتين في البول", "تورم الوجه"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["بروتين في البول", "تورم القدمين"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["بروتين في البول", "قلة كمية البول"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["بروتين في البول", "ضيق التنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["بروتين في البول", "ارتفاع ضغط دم شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["بروتين في البول", "تورم", "ضيق التنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["بروتين في البول", "بول رغوي مستمر", "تورم"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["الأيدي الباردة", "تغير لون الأصابع"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الأيدي الباردة", "تنميل"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الأيدي الباردة", "وخز"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الأيدي الباردة", "ألم في اليدين"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الأيدي الباردة", "تقرحات في الأصابع"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الأيدي الباردة", "ضعف تدفق الدم"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الأيدي الباردة", "برودة القدمين"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الأيدي الباردة", "تعب عام"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الأيدي الباردة", "تصلب الجلد"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["ألم عند التبول", "حرقان"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم عند التبول", "تكرار التبول"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم عند التبول", "بول غائم"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم عند التبول", "رائحة قوية للبول"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم عند التبول", "ألم أسفل البطن"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم عند التبول", "دم في البول"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم عند التبول", "حرارة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم عند التبول", "قشعريرة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم عند التبول", "ألم أسفل الظهر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم عند التبول", "ألم في الخاصرة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم عند التبول", "إفرازات غير طبيعية"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم عند التبول", "صعوبة التبول"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم عند التبول", "عدم إفراغ المثانة"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["التعرق الليلي", "حرارة شديدة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["التعرق الليلي", "فقدان وزن غير مبرر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["التعرق الليلي", "حمى متكررة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["التعرق الليلي", "تعب شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["التعرق الليلي", "سعال مستمر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["التعرق الليلي", "قشعريرة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["التعرق الليلي", "ألم في الجسم"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["التعرق الليلي", "تضخم الغدد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["التعرق الليلي", "تعرق شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["التعرق الليلي", "اضطراب النوم"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["تقشر الجلد", "طفح جلدي"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تقشر الجلد", "حكة شديدة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تقشر الجلد", "جفاف شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تقشر الجلد", "احمرار"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تقشر الجلد", "تهيج"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تقشر الجلد", "ألم"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تقشر الجلد", "تقرحات"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تقشر الجلد", "تشققات"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تقشر الجلد", "إفرازات"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تقشر الجلد", "حرارة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تقشر الجلد", "قشعريرة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تقشر الجلد", "تورم"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تقشر الجلد", "حساسية"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["تشنجات الساق الليلية", "ألم شديد مفاجئ"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تشنجات الساق الليلية", "استمرار طويل"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تشنجات الساق الليلية", "ضعف عضلي"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تشنجات الساق الليلية", "تعب شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تشنجات الساق الليلية", "تيبس العضلة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تشنجات الساق الليلية", "صعوبة الحركة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تشنجات الساق الليلية", "تشنج شديد مستمر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تشنجات الساق الليلية", "ألم شديد", "تورم"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تشنجات الساق الليلية", "تغير لون الجلد"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["تكلسات في الثدي", "كتلة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تكلسات في الثدي", "تغير شكل الثدي"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تكلسات في الثدي", "إفرازات من الحلمة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تكلسات في الثدي", "ألم مستمر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تكلسات في الثدي", "انقلاب الحلمة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تكلسات في الثدي", "تغير الجلد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تكلسات في الثدي", "تورم"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تكلسات في الثدي", "كتلة في الإبط"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["تورم الساق", "ألم الصدر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تورم الساق", "ضيق التنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تورم الساق", "دوخة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تورم الساق", "إغماء"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تورم الساق", "سعال مع دم"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تورم الساق", "ألم مفاجئ"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تورم الساق", "تورم ساق واحدة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تورم الساق", "جلد بارد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تورم الساق", "تورم مفاجئ"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["الصداع", "حرارة عالية", "تيبس الرقبة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الصداع", "إغماء"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الصداع", "صعوبة الكلام"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الصداع", "شلل جهة واحدة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الصداع", "صعوبة الرؤية"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الصداع", "صعوبة المشي"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الصداع", "غثيان", "قيء شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الصداع", "ألم مفاجئ شديد جدا"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الصفير", "صعوبة التنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الصفير", "سرعة التنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الصفير", "ازرقاق الجلد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الصفير", "صعوبة شديدة في التنفس", "ازرقاق الجلد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الصفير", "ضيق تنفس شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الصفير", "اختناق"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الصفير", "اختناق", "صعوبة التنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الصفير", "رد فعل تحسسي مفاجئ", "صعوبة التنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الصفير", "بلع جسم غريب", "صعوبة التنفس"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["ضيق التنفس", "ألم في الصدر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ضيق التنفس", "إغماء"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ضيق التنفس", "غثيان"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ضيق التنفس", "ازرقاق الشفاه"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ضيق التنفس", "ازرقاق الأظافر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ضيق التنفس", "ارتباك"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ضيق التنفس", "صعوبة شديدة مفاجئة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ضيق التنفس", "ألم الصدر", "إغماء"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ضيق التنفس", "ازرقاق الشفاه", "صعوبة شديدة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ضيق التنفس", "ارتباك", "صعوبة مفاجئة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ضيق التنفس", "ألم الصدر", "غثيان"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["التعرق الزائد", "دوخة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["التعرق الزائد", "دوار"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["التعرق الزائد", "ألم في الصدر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["التعرق الزائد", "غثيان"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["التعرق الزائد", "نبض سريع"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["التعرق الزائد", "برودة الجلد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["التعرق الزائد", "تعب شديد مفاجئ"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["التعرق الزائد", "ألم الصدر", "غثيان"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["التعرق الزائد", "دوخة", "نبض سريع"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["التعرق الزائد", "ألم الصدر", "دوخة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["التعرق الزائد", "برودة الجلد", "تعب شديد"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["فقدان حاسة الشم", "صداع شديد مفاجئ"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["فقدان حاسة الشم", "صعوبة في التنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["فقدان حاسة الشم", "حرارة عالية"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["فقدان حاسة الشم", "ارتباك"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["فقدان حاسة الشم", "تغير في الوعي"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["فقدان حاسة الشم", "ألم شديد في الرأس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["فقدان حاسة الشم", "ضعف"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["فقدان حاسة الشم", "خدر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["فقدان حاسة الشم", "نزيف أنفي شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["فقدان حاسة الشم", "صداع شديد", "حرارة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["فقدان حاسة الشم", "صعوبة تنفس", "ارتباك"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["فقدان حاسة الشم", "ضعف جهة واحدة", "صداع"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["فقدان حاسة الشم", "حرارة", "ألم شديد"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["الهالات السوداء", "تعب شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الهالات السوداء", "قلة النوم"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الهالات السوداء", "حكة في العين"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الهالات السوداء", "حساسية"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الهالات السوداء", "احتقان الأنف"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الهالات السوداء", "جفاف الجلد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الهالات السوداء", "تورم"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الهالات السوداء", "فرك العين"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الهالات السوداء", "تورم شديد بعين واحدة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الهالات السوداء", "ألم في العين", "تورم"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الهالات السوداء", "تغير لون الجلد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["الهالات السوداء", "صداع مستمر", "تعب شديد"],
+    "emergency": true
+  },
+
+  {
+    "symptoms": ["دم في السائل المنوي", "ألم عند التبول"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["دم في السائل المنوي", "ألم أثناء القذف"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["دم في السائل المنوي", "حرارة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["دم في السائل المنوي", "قشعريرة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["دم في السائل المنوي", "تكرار التبول"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["دم في السائل المنوي", "ألم أسفل البطن"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["دم في السائل المنوي", "ألم الحوض"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["دم في السائل المنوي", "دم في البول"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["دم في السائل المنوي", "ألم في الخصية"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["دم في السائل المنوي", "إفرازات غير طبيعية"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["دم في السائل المنوي", "حرارة", "ألم عند التبول"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["دم في السائل المنوي", "ألم الحوض", "صعوبة التبول"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["دم في السائل المنوي", "دم في البول", "ألم شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["دم في السائل المنوي", "ألم الخصية", "تورم"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم صدر", "يمتد إلى الذراع أو الفك", "تعرق", "غثيان"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم صدر", "ضيق تنفس", "تعرق شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["فقدان وعي مفاجئ"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تشنجات", "فقدان وعي"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تشنجات", "حرارة عالية"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ضعف مفاجئ في جهة واحدة", "صعوبة الكلام"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["انحراف الوجه", "ضعف الذراع", "صعوبة الكلام"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["صداع شديد مفاجئ جدا", "تصلب الرقبة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["صداع شديد مفاجئ جدا", "فقدان وعي"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["حرارة عالية", "تيبس الرقبة", "حساسية الضوء"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["قيء مستمر", "عدم القدرة على الاحتفاظ بالسوائل"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["قيء", "دم", "ألم شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["نزيف شديد", "دوخة", "إغماء"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["نزيف لا يتوقف"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["حرق شديد", "فقاعات", "ألم شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["حرق", "استنشاق دخان", "ضيق تنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["حساسية شديدة", "تورم الوجه أو الحلق", "صعوبة التنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["لدغة أو لسعة", "تورم", "صعوبة التنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ابتلاع مادة سامة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تناول جرعة زائدة من دواء"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["عدم التبول", "تورم", "ضيق تنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["قلة شديدة في البول", "تورم", "تعب شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم شديد في البطن", "صلابة البطن"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم مفاجئ شديد في الخصية"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تورم الخصية", "ألم شديد مفاجئ"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["صعوبة بلع", "اختناق"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["صوت صفير شديد", "عدم القدرة على الكلام"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["عدم القدرة على الاستيقاظ"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تشوش شديد", "عدم الاستجابة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم صدر مفاجئ", "يمتد للظهر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم صدر مفاجئ", "فرق ضغط بين اليدين"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ضيق تنفس", "تورم مفاجئ في الوجه"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["عدم القدرة على الكلام", "اختناق"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["توقف التنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["نبض بطيء جدا", "دوخة أو إغماء"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["نبض سريع جدا", "دوخة", "ألم صدر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["حرارة عالية جدا", "تشوش"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["حرارة عالية", "طفح جلدي منتشر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تصلب الرقبة", "طفح جلدي"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم شديد مفاجئ في البطن", "فقدان شهية", "قيء"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["انتفاخ بطن شديد", "عدم خروج غازات أو براز"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["عدم التبول لأكثر من 12 ساعة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["بول غامق جدا", "تعب شديد", "اصفرار"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تورم مفاجئ في ساق واحدة", "ألم"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم في الساق", "سخونة", "احمرار"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["فقدان مفاجئ للرؤية"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ازدواجية الرؤية", "صداع"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["عدم القدرة على تحريك جزء من الجسم"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["رجفة شديدة", "تشوش"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم شديد بعد حادث"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["سقوط من ارتفاع", "ألم"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ضربة على الرأس", "قيء", "دوخة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ضربة على الرأس", "فقدان وعي"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["نزول سائل من الأنف بعد ضربة رأس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم شديد في العين", "فقدان النظر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["حرق في العين", "مادة كيميائية"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["اختناق", "عدم القدرة على الكلام"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["اختناق", "عدم القدرة على التنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["فقدان وعي مفاجئ"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["توقف التنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تشنجات", "فقدان وعي"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["تشنجات", "استمرار أكثر من 5 دقائق"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["حساسية شديدة", "تورم الوجه أو اللسان", "صعوبة التنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["لدغة أو لسعة", "تورم الحلق", "صعوبة التنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["حرق شديد", "فقاعات واسعة", "ألم شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["حرق", "الوجه", "صعوبة التنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ابتلاع مادة سامة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["جرعة زائدة", "نعاس شديد", "بطء التنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["نزيف شديد", "لا يتوقف", "دوخة"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["جرح عميق", "نزيف نابض"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ضربة على الرأس", "فقدان وعي"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ضربة على الرأس", "قيء متكرر", "تشوش"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["سقوط من ارتفاع", "ألم شديد"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["ألم صدر مفاجئ", "يمتد إلى الظهر"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["عدم التبول", "تورم", "ضيق تنفس"],
+    "emergency": true
+  },
+  {
+    "symptoms": ["فقدان مفاجئ للرؤية"],
+    "emergency": true
+  }
+]

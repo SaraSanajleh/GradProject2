@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --medical-blue: #0ea5e9;
+  --medical-dark: #0369a1;
+  --medical-light: #e0f2fe;
+  --medical-white: #ffffff;
+  --medical-gray: #f1f5f9;
+  --medical-gray-text: #64748b;
+}
+
+.dark {
+  --medical-blue: #38bdf8;
+  --medical-dark: #0ea5e9;
+  --medical-light: #0c4a6e;
+  --medical-gray: #1e293b;
+  --medical-gray-text: #94a3b8;
+}
+
+@layer base {
+  html {
+    @apply font-arabic antialiased;
+  }
+  body {
+    @apply bg-medical-gray text-slate-800 dark:bg-slate-900 dark:text-slate-100;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
